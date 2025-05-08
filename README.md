@@ -3,6 +3,31 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sushantmg&theme=tokyo-night)](https://github.com/Sushantmg/github-readme-activity-graph)
 
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sushantmg&show_icons=true&theme=tokyonight" alt="Sushantmg GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sushantmg&theme=tokyonight&v=1" />
+
+</p>
+
+
+
+
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+
+- 🌱 I’m currently learning React and Node.js
+- 🔭 I’m working on a travel site for my agency (Sushan Travels)
+- 🎯 Goal: Contribute to open-source and explore space tech in AI
+
+- 🏀 I love basketball and football
+- 🧠 I love solving real-world problems with code
+> 🧠 *“One small code for man, one giant leap for innovation.”
+
 ### 🛠️ Languages and Tools
 
 
@@ -17,13 +42,8 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushantmg&show_icons=true&theme=tokyonight" alt="Sushantmg GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushantmg&theme=tokyonight" alt="Sushantmg streak" />
-</p>
+
 
 ### 📫 Connect with Me
 
@@ -38,13 +58,3 @@
     <img src="https://img.shields.io/badge/Sushan%20Travels-00BFFF?style=for-the-badge" />
   </a>
 </p>
-
-> 🧠 *“One small code for man, one giant leap for innovation.”
-> “Code is like humor. When you have to explain it, it’s bad.”
-
-- 🌱 I’m currently learning React and Node.js
-- 🔭 I’m working on a travel site for my agency (Sushan Travels)
-- 🎯 Goal: Contribute to open-source and explore space tech in AI
-
-- 🏀 I love basketball and football
-- 🧠 I love solving real-world problems with code
