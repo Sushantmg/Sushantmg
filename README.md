@@ -19,15 +19,41 @@
 ---
 
 ### ✨ About Me
-- 🔭 Currently maintaining my **Pomodoro Productivity App**
-- 🌱 Learning **Next.js 15**, **TypeScript**, **React**, **Node.js**, and **Supabase Auth**
-- 💼 Founder of **Sushan Travels**
-- 🚀 Passionate about **AI, space technology, robotics, and problem-solving**
-- 🎯 Goal: Contribute to **open-source** and work in **space-tech organizations**
-- 🏀 Love basketball, football & building clean, functional UI
+🔹 Current Projects:
 
-> *“One small code for man, one giant leap for innovation.”*
+⏱️ Pomodoro App – Boost focus with task management, progress animations & smart breaks
 
+🛍️ Fukusus – Sleek clothing store with search, filter, and cart features
+
+🌍 Sushan Travels – Dynamic travel website with packages, bookings & interactive UI
+
+🛒 HarmoMart – E-commerce platform making online shopping smarter & easier
+
+🔹 Skills & Learning:
+
+Frontend: HTML, CSS, TailwindCSS, React, Next.js, TypeScript
+
+Backend: Node.js, Express.js, Prisma, MongoDB, Supabase Auth
+
+Always experimenting with AI, robotics, and space tech projects 🌌
+
+🔹 Entrepreneurial & Goal-Oriented:
+
+Founder of Sushan Travels – turning travel dreams into reality ✈️
+
+Passionate about contributing to open-source and aiming for space-tech organizations 💻
+
+🔹 Life Outside Code:
+
+🏀 Basketball & ⚽ Football for adrenaline
+
+Swimming for calmness
+
+Building clean, functional, and stylish UI for fun
+
+🔹 Fun Fact:
+
+Every project, from Pomodoro apps to e-commerce stores, starts with curiosity. Every line of code is a small leap toward innovation ⚡
 ---
 
 ### 🛠️ Tech Stack
