@@ -21,38 +21,49 @@
 ---
 
 ### ✨ **About Me**
-- 🔭 Maintaining my **Pomodoro Productivity App**  
-- 🌱 Learning **Next.js 15**, **TypeScript**, **React**, **Node.js**, **Supabase Auth**  
+- 🔭 Currently maintaining my **Pomodoro Productivity App**  
+- 🌱 Learning **Next.js 15**, **TypeScript**, **React**, **Node.js**, and **Supabase Auth**  
 - 💼 Founder of **Sushan Travels**  
-- 🚀 Passionate about **AI, space technology, and problem-solving**  
+- 🚀 Passionate about **AI, space technology, robotics, and problem-solving**  
 - 🎯 Goal: Contribute to **open-source** and work in **space-tech organizations**  
-- 🏀 Love basketball, football & building functional UI  
+- 🏀 Love basketball, football & building clean, functional UI  
 
 > *“One small code for man, one giant leap for innovation.”*
 
 ---
 
-### 🛠️ **Tech Stack & Skills (Animated)**
+### 🛠️ **Tech Stack with Skills**
 
-#### Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Sushantmg/github-readme/main/skills-html.gif" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/Sushantmg/github-readme/main/skills-css.gif" title="CSS3" />
-  <img src="https://raw.githubusercontent.com/Sushantmg/github-readme/main/skills-tailwind.gif" title="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/Sushantmg/github-readme/main/skills-js.gif" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/Sushantmg/github-readme/main/skills-ts.gif" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/Sushantmg/github-readme/main/skills-react.gif" title="React" />
-  <img src="https://raw.githubusercontent.com/Sushantmg/github-readme/main/skills-next.gif" title="Next.js" />
+<div align="center">
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" title="TailwindCSS" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" title="Next.js" />
 </p>
 
-#### Backend & Database
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Sushantmg/github-readme/main/skills-node.gif" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/Sushantmg/github-readme/main/skills-express.gif" title="Express.js" />
-  <img src="https://raw.githubusercontent.com/Sushantmg/github-readme/main/skills-mongo.gif" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/Sushantmg/github-readme/main/skills-prisma.gif" title="Prisma" />
-  <img src="https://raw.githubusercontent.com/Sushantmg/github-readme/main/skills-supabase.gif" title="Supabase" />
+**Backend & Database**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" title="Prisma" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" title="Supabase" />
 </p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman" />
+</p>
+
+</div>
 
 ---
 
@@ -89,7 +100,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushantmg&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushantmg&hide=html,css&layout=compact&theme=tokyonight" />
 </p>
 
 ---
