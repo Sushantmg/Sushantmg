@@ -41,91 +41,59 @@ mindset:
 
 ---
 
-# 🔥 CURRENT STATUS
+# 🤖 CURRENT FOCUS
 
-```txt
-🟢 Learning Every Day
-🟢 Building Full Stack Applications
-🟢 Exploring AI Engineering
-🟢 Studying System Design
-🟢 Open Source Contributions
-🟢 Growing Sushan Travels
+```yaml
+learning:
+  - Machine Learning
+  - Deep Learning
+  - LLM Engineering
+  - AI Agents
+  - RAG Systems
+  - Vector Databases
+
+building:
+  - Full Stack AI Applications
+  - Intelligent Automation Tools
+  - AI Powered SaaS
+
+exploring:
+  - Robotics
+  - Computer Vision
+  - Space Technology
 ```
 
 ---
 
-# 🧠 TECH STACK
+# 🧠 AI & SOFTWARE STACK
 
-<div align="center">
+### Languages
 
-Frontend
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,ts"/>
+### Frontend
 
-Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,supabase"/>
+### Backend
 
-Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,vercel"/>
+### Databases
 
-Future Focus
+<img src="https://skillicons.dev/icons?i=mongodb,postgres"/>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+### AI / ML
 
-</div>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
----
+### Tools
 
-# 🚀 FEATURED PROJECTS
-
-## ⏱️ Pomodoro Pro
-
-Productivity platform focused on deep work.
-
-### Features
-
-* Focus Sessions
-* Smart Breaks
-* Analytics
-* Task Tracking
-* Music Integration
-* Premium Features
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode"/>
 
 ---
 
-## 👕 Fukusus
 
-Modern Clothing Platform
-
-* Next.js 15
-* TypeScript
-* Authentication
-* Shopping Cart
-* Responsive UI
-
----
-
-## ✈️ Sushan Travels
-
-Travel Business Platform
-
-* Travel Packages
-* Booking System
-* Inquiry Management
-* Dynamic Content
-
----
-
-## 🛒 HarmoMart
-
-Scalable E-Commerce Solution
-
-* Product Management
-* Cart & Checkout
-* Admin Dashboard
-* API Integration
 
 ---
 
@@ -141,7 +109,7 @@ Scalable E-Commerce Solution
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushantmg&theme=tokyonight&hide_border=true"/>
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=Sushantmg&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Sushantmg&show_icons=true&theme=radical&hide_border=true&count_private=true)and https://github-readme-stats.vercel.app/api/top-langs/?username=Sushantmg"/>
 
 </div>
 
@@ -151,7 +119,7 @@ Scalable E-Commerce Solution
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sushantmg&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
+<img src="[https://github-profile-trophy.vercel.app/?username=Sushantmg&theme=tokyonight&column=7&margin-w=10&margin-h=10](https://github-profile-trophy.vercel.app/?username=Sushantmg&theme=algolia&no-frame=true&row=1&column=7)"/>
 
 </div>
 
@@ -193,17 +161,55 @@ CSS           3 hrs 14 mins ███░░░░░░░░░░░
 
 ---
 
-# 🎯 ROADMAP
+# 🚀 AI ENGINEER ROADMAP
 
-### 2026
+### Foundation
 
-* [ ] Master System Design
-* [ ] Build AI SaaS Product
-* [ ] Contribute to Major Open Source Projects
-* [ ] Learn Kubernetes
-* [ ] Learn Cloud Infrastructure
-* [ ] Build Robotics Projects
-* [ ] Enter Space-Tech Industry
+- [x] HTML / CSS
+- [x] JavaScript
+- [x] TypeScript
+- [x] React
+- [x] Next.js
+
+### Computer Science
+
+- [ ] Data Structures & Algorithms
+- [ ] Operating Systems
+- [ ] Computer Networks
+- [ ] System Design
+
+### AI & Machine Learning
+
+- [ ] Python for AI
+- [ ] NumPy & Pandas
+- [ ] Data Visualization
+- [ ] Machine Learning
+- [ ] Deep Learning
+- [ ] Computer Vision
+- [ ] NLP
+
+### Modern AI
+
+- [ ] LLM Fundamentals
+- [ ] Prompt Engineering
+- [ ] RAG Systems
+- [ ] Vector Databases
+- [ ] AI Agents
+- [ ] Fine Tuning Models
+
+### Deployment
+
+- [ ] Docker
+- [ ] Kubernetes
+- [ ] AWS
+- [ ] MLOps
+
+### Long Term Goal
+
+- [ ] AI Engineer
+- [ ] Robotics Software Engineer
+- [ ] Space-Tech Software Developer
+```
 
 ---
 
@@ -245,10 +251,4 @@ My long-term vision is to combine software engineering, artificial intelligence,
 *"Every commit is one step closer to mastery."*
 
 </div>
-## 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Sushantmg/Sushantmg/output/github-contribution-grid-snake-dark.svg)
-
-</div>
