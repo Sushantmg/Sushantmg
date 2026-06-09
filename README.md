@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # SUSHAN TAMANG
@@ -7,24 +6,17 @@
 
 🚀 Building scalable intelligence systems at the intersection of AI, software engineering, and real-world automation.
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Full+Stack+Architect;Distributed+Systems+Builder;LLMs+%7C+RAG+%7C+AI+Agents;Building+Scalable+Intelligent+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Full+Stack+Architect;Distributed+Systems+Builder;LLMs+%7C+RAG+%7C+AI+Agents;Building+Scalable+Intelligent+Systems" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧬 ENGINEERING PROFILE
+## 🧬 Engineering Profile
 
 ```yaml
 name: Sushan Tamang
 location: Nepal 🇳🇵
-
 title: AI Systems Engineer | Full Stack Architect
 
 identity:
@@ -38,19 +30,27 @@ core_philosophy:
   - Abstraction over repetition
   - Scalability over shortcuts
   - Deep understanding over surface tools
+```
 
-⚙️ WHAT I BUILD
+---
+
+## ⚙️ What I Build
 
 I design and build production-ready intelligent systems:
 
-AI-powered SaaS platforms
-LLM-based applications (RAG, Agents, Tool Use)
-Distributed backend systems
-Real-time web applications
-Full stack scalable architectures (Next.js / MERN)
-Automation systems powered by AI
-Experimental ML + AI prototypes
-🧠 SYSTEM DESIGN THINKING
+- 🤖 AI-powered SaaS platforms
+- 🧠 LLM-based applications (RAG, Agents, Tool Use)
+- 🌐 Distributed backend systems
+- ⚡ Real-time web applications
+- 🏗️ Full stack scalable architectures (Next.js / MERN)
+- 🔧 Automation systems powered by AI
+- 🔬 Experimental ML + AI prototypes
+
+---
+
+## 🧠 System Design Thinking
+
+```yaml
 architecture_style:
   - Event-driven systems
   - Stateless backend services
@@ -60,7 +60,7 @@ architecture_style:
 performance_focus:
   - Low latency APIs
   - Efficient database indexing
-  - Caching strategies (Redis concepts)
+  - Caching strategies (Redis)
   - Async processing pipelines
 
 scalability_principles:
@@ -68,144 +68,151 @@ scalability_principles:
   - Decouple everything possible
   - Optimize bottlenecks first
   - Keep systems observable
-🚀 TECH STACK
-Programming Languages
+```
 
-Frontend Engineering
+---
 
-Backend Systems
+## 🚀 Tech Stack
 
-Databases & Storage Systems
+<div align="center">
 
-AI / Machine Learning
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-DevOps & Infrastructure
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-📊 ENGINEERING IMPACT
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sushantmg&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushantmg&layout=compact&theme=tokyonight&hide_border=true"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushantmg&theme=tokyonight&hide_border=true"/> </div>
-📈 CONTRIBUTION INTELLIGENCE GRAPH
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushantmg&theme=tokyo-night"/> </div>
-🧩 SYSTEM DESIGN MINDSET
-thinking_model:
-  - Break systems into independent modules
-  - Design for scalability before optimization
-  - Prefer event-driven communication
-  - Build with failure tolerance in mind
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-engineering_patterns:
-  - Caching layers for performance
-  - Queue-based async processing
-  - API-first architecture
-  - Stateless service design
-🧠 AI ENGINEERING ROADMAP
-Foundation Layer
-Data Structures & Algorithms
-Operating Systems
-Computer Networks
-Database Systems
-AI Systems Layer
-Machine Learning fundamentals
-Deep Learning architectures
-Transformers & LLMs
-Retrieval-Augmented Generation (RAG)
-AI Agents & tool-using systems
-Distributed Systems Layer
-Load balancing strategies
-Message queues (Kafka concepts)
-Caching systems (Redis concepts)
-Microservices architecture
-API scaling strategies
-Production Layer
-Docker & containerization
-Kubernetes basics
-Cloud deployment (AWS / Vercel)
-CI/CD pipelines
-MLOps fundamentals
-🎯 CURRENT MISSION
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Engineering Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sushantmg&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushantmg&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sushantmg&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushantmg&theme=tokyo-night"/>
+</div>
+
+---
+
+## 🗺️ AI Engineering Roadmap
+
+```
+📦 Foundation Layer
+├── Data Structures & Algorithms
+├── Operating Systems
+├── Computer Networks
+└── Database Systems
+
+🧠 AI Systems Layer
+├── Machine Learning fundamentals
+├── Deep Learning architectures
+├── Transformers & LLMs
+├── Retrieval-Augmented Generation (RAG)
+└── AI Agents & tool-using systems
+
+🌐 Distributed Systems Layer
+├── Load balancing strategies
+├── Message queues (Kafka)
+├── Caching systems (Redis)
+├── Microservices architecture
+└── API scaling strategies
+
+🚀 Production Layer
+├── Docker & containerization
+├── Kubernetes basics
+├── Cloud deployment (AWS / Vercel)
+├── CI/CD pipelines
+└── MLOps fundamentals
+```
+
+---
+
+## 🎯 Current Mission
+
+```
 → Build production-grade AI applications
 → Design scalable backend systems
 → Master distributed system fundamentals
 → Develop AI SaaS products
 → Strengthen system design intuition
-🌌 LONG-TERM VISION
+```
+
+---
+
+## 🌌 Long-Term Vision
 
 Building systems at the intersection of:
 
-🤖 Artificial Intelligence
-🌐 Distributed Systems at Scale
-⚙️ Robotics & Automation
-🚀 Space Technology & Exploration
+| Domain | Focus |
+|--------|-------|
+| 🤖 Artificial Intelligence | LLMs, Agents, Automation |
+| 🌐 Distributed Systems | Scale, Resilience, Speed |
+| ⚙️ Robotics | Real-world automation |
+| 🚀 Space Technology | Exploration & beyond |
 
-🧠 ENGINEERING MINDSET
+---
 
-“Great engineers don’t just write code — they design systems that survive scale, failure, and time.”
+## 🧠 Engineering Mindset
 
-Think in architectures, not files
-Optimize for clarity before complexity
-Build systems that can evolve
-Every project should increase engineering depth
-🚀 FEATURED IDENTITY
-I am not just a developer.
+> *"Great engineers don't just write code — they design systems that survive scale, failure, and time."*
 
-I am a systems builder.
+- Think in architectures, not files
+- Optimize for clarity before complexity
+- Build systems that can evolve
+- Every project should increase engineering depth
 
-I design software that thinks, scales, and evolves.
-🤝 CONNECT
-LinkedIn: www.linkedin.com/in/sushan-tamang-9406712b1/
-Email: sushantmg2004@gmail.com
-Portfolio: sushantravels.com
+---
+
+## 🤝 Connect
+
 <div align="center">
-⚡ FINAL FORM ACTIVE
-“From ideas → systems → intelligence → impact”
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushan-tamang-9406712b1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sushantravels.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushantmg2004@gmail.com)
+
 </div>
 
 ---
 
-# 🔥 What makes this FINAL BOSS level
+<div align="center">
 
-### 1. Silicon Valley positioning
-You are now framed as:
-> AI Systems Engineer / Architect
+⚡ **"From ideas → systems → intelligence → impact"**
 
-Not student. Not learner.
-
----
-
-### 2. Strong engineering psychology
-Includes:
-- system thinking
-- scalability mindset
-- distributed systems awareness
-- production engineering language
-
----
-
-### 3. Clean narrative flow
-👉 Identity → Systems → Stack → Roadmap → Vision → Mindset
-
-This is EXACTLY how top engineer profiles are structured.
-
----
-
-### 4. Recruiter impact
-They instantly see:
-- AI direction
-- backend strength
-- architecture thinking
-- long-term vision
-
----
-
-# 🚀 If you want next evolution
-
-I can upgrade this into:
-
-### 🧠 “Top 1% GitHub PROFILE SYSTEM”
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1}
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
-
-Just say:
-👉 **“make me top 1% globally”**
+</div>
