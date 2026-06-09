@@ -233,6 +233,7 @@ My long-term vision is to combine software engineering, artificial intelligence,
 <img src="https://img.shields.io/badge/SUSHAN_TRAVELS-0284c7?style=for-the-badge"/>
 </a>
 
+
 </div>
 
 ---
@@ -242,5 +243,12 @@ My long-term vision is to combine software engineering, artificial intelligence,
 ## ⚡ CURRENTLY BUILDING THE NEXT VERSION OF MYSELF
 
 *"Every commit is one step closer to mastery."*
+
+</div>
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Sushantmg/Sushantmg/output/github-contribution-grid-snake-dark.svg)
 
 </div>
